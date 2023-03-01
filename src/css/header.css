@@ -1,0 +1,31 @@
+.title-wallet {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.user-field {
+  display: flex;
+  justify-content: space-around;
+}
+
+.total {
+  display: inline-flex;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.total-field {
+  margin-right: 5px;
+}
+
+.hr-wallet-1 {
+  margin: 30px auto 10px;
+  width: 20%;
+  border-color: rgba(65, 137, 230, 0.15);
+}
+
+.hr-wallet-2 {
+  margin: 20px auto;
+  width: 40%;
+  border-color: rgba(65, 137, 230, 0.15);
+}

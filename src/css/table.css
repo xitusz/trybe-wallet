@@ -1,0 +1,15 @@
+.table {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+
+thead th {
+  padding: 5px 10px;
+}
+
+tbody {
+  text-align: center;
+  line-break: normal;
+}
