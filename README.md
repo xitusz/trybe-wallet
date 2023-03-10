@@ -1,5 +1,5 @@
 # Trybe Wallet
-[6/9] [Desenvolvimento Front-end](https://github.com/G-Alves1/Trybe/tree/main/02_Desenvolvimento-Front-end)
+[6/9] [Desenvolvimento Front-end](https://github.com/xitusz/Trybe/tree/main/02_Desenvolvimento-Front-end)
 
 ---
 
@@ -45,7 +45,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/trybe-wallet.git
+    git clone git@github.com:xitusz/trybe-wallet.git
   ```
 
 ---
